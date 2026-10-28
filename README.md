@@ -1,54 +1,50 @@
+<h1 align="center">Ahmet Sezer Alaca</h1>
+<p align="center">Software Engineer · Full-stack web, mobile & enterprise integrations</p>
 
- 
-<p align="center"> <h1 align="center"> Hi, I am Sezer </h1> </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/sezeralaca/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="mailto:ahmetsezeralaca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="https://sezeralaca.dev">Website</a> ·
+  <a href="https://www.linkedin.com/in/sezeralaca/">LinkedIn</a> ·
+  <a href="mailto:ahmetsezeralaca@gmail.com">Email</a> ·
+  <a href="https://quackbytes.com">QuackBytes</a>
 </p>
 
--  Software Assistant Specialst at a private company.
--  I’m currently focused on ASP .NET and Web Projects.
--  Looking to collaborate on projects, love learning new stuff. Feel  free to contact
+---
 
+## About
 
-***
+I'm a software engineer based in Kayseri, Türkiye, with 3 years of full-time professional experience building web, mobile, desktop and enterprise applications.
 
-**🛠 &nbsp;Tech Stack**
+- Since 2023 I've been a Software Specialist Assistant at a large private manufacturing company, where I build internal tools, B2B after-sales systems and integrations with SAP and Microsoft Dynamics AX.
+- I also run **QuackBytes**, a software studio through which I help clients build and grow their products as a freelancer.
+- I enjoy turning messy business processes into software that is simple, reliable and easy to maintain.
 
-- Languages: &nbsp;
-- ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=blueviolet)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
- 
-- Frameworks: &nbsp;
-- ![Express.js](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet&logoColor=ffffff)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+## Tech stack
 
-- Databases:  &nbsp;
-  ![Firebase](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+| Area | Tools |
+| --- | --- |
+| **Frontend** | React, Next.js, Angular, TypeScript, Vite, HTML, CSS, Tailwind CSS |
+| **Mobile** | React Native, Expo, Ionic / Capacitor |
+| **Backend** | C#, .NET, ASP.NET Core, Entity Framework Core, LINQ, REST APIs, JWT |
+| **Desktop** | WPF |
+| **Databases** | PostgreSQL, Microsoft SQL Server, Redis |
+| **Infrastructure** | Linux, Docker, Kubernetes, GitHub Actions, IIS |
+| **Enterprise** | SAP S/4HANA (ABAP, Z programs), SAP integrations, Microsoft Dynamics AX, Active Directory / LDAP, Microsoft Entra ID |
 
-- IDEs: &nbsp;
-- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+## What I've built
 
- 
+- Production label design and printing application integrated with SAP
+- Quality assurance and production-line tracking mobile apps
+- Dynamic QR code management system for trade fairs and product launches
+- Secure internal file transfer platform with email OTP verification
+- 3D / 360° product viewer with interactive hotspots and an admin panel
+- Customer support portal with documentation, troubleshooting guides and ticketing
+- Authentication and authorization integrations (Entra ID, LDAP, JWT)
 
+## Open source & projects
 
+- **[QuackElements](https://ui.quackbytes.com)**: a UI component library by QuackBytes.
+- **[qrlogo-generator](https://www.npmjs.com/package/qrlogo-generator)**: an npm package for generating QR codes with embedded logos.
 
-<!-- -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
-[![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com) -->
-***
+## Let's talk
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=imkashyap&theme=react-dark&hide_border=true&area=true) -->
-
-<div align="center">
-
-
-
-</div>
+I'm open to interesting full-stack and backend roles, and to freelance projects through QuackBytes. The easiest way to reach me is by [email](mailto:ahmetsezeralaca@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sezeralaca/).
